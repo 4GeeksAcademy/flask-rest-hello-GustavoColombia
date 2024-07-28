@@ -18,6 +18,8 @@ flask-cors = "*"
 gunicorn = "*"
 mysqlclient = "*"
 flask-admin = "*"
+"sqlalchemy.orm" = "*"
+eralchemy2 = "*"
 
 [requires]
 python_version = "3.10"
